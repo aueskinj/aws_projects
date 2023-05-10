@@ -1,5 +1,5 @@
 
-# AWS EC2 S3 Access
+# iam_role.sh (AWS EC2 S3 Access)
 
 This is a Bash script that creates an EC2 instance and configures permissions to access an S3 bucket.
 
